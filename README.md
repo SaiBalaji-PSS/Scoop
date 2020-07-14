@@ -16,9 +16,9 @@ A NEWS App for iOS 14 built using Swift which allow the users to read,bookmark a
 . Swift Standard Library (Codable) - To parse JSON objects
 # Cocoa Pods used
 
-KSBGradient By: me!(Sai Balaji) link: https://cocoapods.org/pods/KSBGradientView <br>
-SVProgressHUD By: Sam Vermette and Tobias Tiemerding link: https://cocoapods.org/pods/SVProgressHUD <br>
-SDWebImage By: Olivier Poitrey link: https://cocoapods.org/pods/SDWebImage <br>
+KSBGradient By: me!(Sai Balaji) link: https://cocoapods.org/pods/KSBGradientView To get gradient background to UIVIew <br>
+SVProgressHUD By: Sam Vermette and Tobias Tiemerding link: https://cocoapods.org/pods/SVProgressHUD To display progress view <br>
+SDWebImage By: Olivier Poitrey link: https://cocoapods.org/pods/SDWebImage  Asynchronous image downloader without affecting UI Thread <br>
 
 
 # Screenshots
