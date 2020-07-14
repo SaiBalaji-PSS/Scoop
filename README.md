@@ -1,6 +1,7 @@
 # Scoop
 
 A NEWS App for iOS 14 built using Swift which allow the users to read,bookmark and share news articles.
+Built using MVC architecture
 
 # Requirements
 
