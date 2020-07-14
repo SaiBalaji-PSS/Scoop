@@ -4,9 +4,17 @@ A NEWS App for iOS 14 built using Swift which allow the users to read,bookmark a
 
 # Requirements
 
-.Xcode 10+
-.Swift 5+
-.Cocoa Pod
+.Xcode 10+ <br>
+.Swift 5+. <br>
+.Cocoa Pod <br>
+
+
+# Cocoa Pods used
+
+KSBGradient By: me!(Sai Balaji) link: https://cocoapods.org/pods/KSBGradientView <br>
+SVProgressHUD By: Sam Vermette and Tobias Tiemerding link: https://cocoapods.org/pods/SVProgressHUD <br>
+SDWebImage By: Olivier Poitrey link: https://cocoapods.org/pods/SDWebImage <br>
+
 
 # Screenshots
 
