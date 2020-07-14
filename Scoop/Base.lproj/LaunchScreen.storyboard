@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="aVW-cg-mp8">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="rT7-4J-rXK">
+            <objects>
+                <viewController id="aVW-cg-mp8" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="V1M-Gd-fq5">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Scoop" translatesAutoresizingMaskIntoConstraints="NO" id="9j7-90-KeH">
+                                <rect key="frame" x="72.5" y="113" width="230" height="124"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Read the world today" translatesAutoresizingMaskIntoConstraints="NO" id="ywq-cN-x8J">
+                                <rect key="frame" x="49" y="258" width="277" height="37"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Developed by Enigma Bit" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CSW-9L-RgE">
+                                <rect key="frame" x="63.5" y="599" width="248" height="27.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.70679030879001292" green="0.0" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="CSW-9L-RgE" firstAttribute="top" secondItem="ywq-cN-x8J" secondAttribute="bottom" constant="304" id="AvA-Nz-Tba"/>
+                            <constraint firstItem="CSW-9L-RgE" firstAttribute="centerX" secondItem="V1M-Gd-fq5" secondAttribute="centerX" id="Bbb-z5-Nq1"/>
+                            <constraint firstItem="9j7-90-KeH" firstAttribute="top" secondItem="ARS-J0-gcQ" secondAttribute="top" constant="113" id="Bfr-BN-2vT"/>
+                            <constraint firstItem="ywq-cN-x8J" firstAttribute="centerX" secondItem="V1M-Gd-fq5" secondAttribute="centerX" id="OFZ-Kt-2YG"/>
+                            <constraint firstItem="ywq-cN-x8J" firstAttribute="top" secondItem="9j7-90-KeH" secondAttribute="bottom" constant="21" id="hvJ-of-v4g"/>
+                            <constraint firstItem="9j7-90-KeH" firstAttribute="centerX" secondItem="V1M-Gd-fq5" secondAttribute="centerX" id="qTh-te-wMe"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="ARS-J0-gcQ"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="98l-jk-49j" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="76.811594202898561" y="348.91304347826087"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Read the world today" width="277" height="37"/>
+        <image name="Scoop" width="230" height="124"/>
+    </resources>
+</document>

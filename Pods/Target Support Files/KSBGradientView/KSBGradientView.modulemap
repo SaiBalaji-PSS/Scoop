@@ -1,0 +1,6 @@
+framework module KSBGradientView {
+  umbrella header "KSBGradientView-umbrella.h"
+
+  export *
+  module * { export * }
+}

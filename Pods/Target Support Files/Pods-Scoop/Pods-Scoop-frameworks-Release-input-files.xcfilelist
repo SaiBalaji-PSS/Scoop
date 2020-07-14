@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Scoop/Pods-Scoop-frameworks.sh
+${BUILT_PRODUCTS_DIR}/KSBGradientView/KSBGradientView.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework

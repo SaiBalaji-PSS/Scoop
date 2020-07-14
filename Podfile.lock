@@ -1,0 +1,26 @@
+PODS:
+  - KSBGradientView (0.1.0)
+  - SDWebImage (5.8.3):
+    - SDWebImage/Core (= 5.8.3)
+  - SDWebImage/Core (5.8.3)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - KSBGradientView
+  - SDWebImage (~> 5.0)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - KSBGradientView
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  KSBGradientView: c6dcc2812d46055dec1b819779496c24283b12a2
+  SDWebImage: 112503ec94a5a2a41869503844a15e8d8f1ead5c
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: e66b8166377f7ee2bab7870d28252091bacb7227
+
+COCOAPODS: 1.9.3
