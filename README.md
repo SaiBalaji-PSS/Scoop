@@ -11,9 +11,9 @@ A NEWS App for iOS 14 built using Swift which allow the users to read,bookmark a
 
 # Frameworks used
 
-.UIKit <br>
-.Core Data <br>
-
+. UIKit <br> - UserInterface framework
+. Core Data <br> - To store Bookmarks in disk
+. Swift Standard Library (Codable) - To parse JSON objects
 # Cocoa Pods used
 
 KSBGradient By: me!(Sai Balaji) link: https://cocoapods.org/pods/KSBGradientView <br>
