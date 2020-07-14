@@ -15,11 +15,11 @@ class NetworkService{
     static  let  sharedobj = NetworkService()
     let session = URLSession.shared
     
-   private let HEALTH_URL = "https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=81ac0722281749f6b36e95ebc7d01637"
-   private let HEADLINES_URL = "https://newsapi.org/v2/top-headlines?country=in&apiKey=81ac0722281749f6b36e95ebc7d01637"
-   private let TECH_URL = "http://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=81ac0722281749f6b36e95ebc7d01637"
-   private let ENTERTAINMENT_URL = "http://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=81ac0722281749f6b36e95ebc7d01637"
-    private let SCIENCE_URL = "http://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=81ac0722281749f6b36e95ebc7d01637"
+   private let HEALTH_URL = "https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=API _KEY_HERE"
+   private let HEADLINES_URL = "https://newsapi.org/v2/top-headlines?country=in&apiKey=API _KEY_HERE"
+   private let TECH_URL = "http://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=API _KEY_HERE"
+   private let ENTERTAINMENT_URL = "http://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=API _KEY_HERE"
+    private let SCIENCE_URL = "http://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=API _KEY_HERE"
     
    
     public func getHeadLines(onSuccess: @escaping ([Articles]) -> Void)
