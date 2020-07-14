@@ -27,5 +27,8 @@ SDWebImage By: Olivier Poitrey link: https://cocoapods.org/pods/SDWebImage <br>
 ![WhatsApp Image 2020-07-14 at 6 55 28 PM(1)_iphoneserosegold_portrait](https://user-images.githubusercontent.com/51410810/87435407-5584e700-c609-11ea-9ff2-fcfe23062bb3.png)
 ![WhatsApp Image 2020-07-14 at 6 55 30 PM_iphoneserosegold_portrait](https://user-images.githubusercontent.com/51410810/87435422-5ae23180-c609-11ea-990d-47e865822c7d.png)
 ![WhatsApp Image 2020-07-14 at 6 55 29 PM_iphoneserosegold_portrait](https://user-images.githubusercontent.com/51410810/87435438-5fa6e580-c609-11ea-8afa-de3ffba67df8.png)
+![WhatsApp Image 2020-07-14 at 7 14 17 PM_iphoneserosegold_portrait](https://user-images.githubusercontent.com/51410810/87437498-055b5400-c60c-11ea-968b-12f521f92c8f.png)
+![WhatsApp Image 2020-07-14 at 7 14 18 PM(1)_iphoneserosegold_portrait](https://user-images.githubusercontent.com/51410810/87437502-07bdae00-c60c-11ea-88c3-a0d735aad81d.png)
 ![WhatsApp Image 2020-07-14 at 6 55 30 PM(1)_iphoneserosegold_portrait](https://user-images.githubusercontent.com/51410810/87435449-633a6c80-c609-11ea-9318-78ed74eff4a9.png)
 ![WhatsApp Image 2020-07-14 at 6 55 28 PM_iphoneserosegold_portrait](https://user-images.githubusercontent.com/51410810/87435484-6d5c6b00-c609-11ea-9f52-92c534dfcf77.png)
+
