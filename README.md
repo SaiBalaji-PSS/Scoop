@@ -9,6 +9,11 @@ A NEWS App for iOS 14 built using Swift which allow the users to read,bookmark a
 .Cocoa Pod <br>
 
 
+# Frameworks used
+
+.UIKit <br>
+.Core Data <br>
+
 # Cocoa Pods used
 
 KSBGradient By: me!(Sai Balaji) link: https://cocoapods.org/pods/KSBGradientView <br>
