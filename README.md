@@ -2,7 +2,7 @@
 
 A NEWS App for iOS 14 built using Swift which allow the users to read,bookmark and share news articles.
 Built using MVC architecture
-
+[![HitCount](http://hits.dwyl.com/SaiBalaji22/https://githubcom/SaiBalaji22/Scoop.svg)](http://hits.dwyl.com/SaiBalaji22/https://githubcom/SaiBalaji22/Scoop)
 # Requirements
 
 .Xcode 10+ <br>
