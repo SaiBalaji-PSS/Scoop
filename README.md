@@ -15,20 +15,27 @@ Built using MVC architecture
 . UIKit <br> - UserInterface framework
 . Core Data <br> - To store Bookmarks in disk
 . Swift Standard Library (Codable) - To parse JSON objects
+
+#   Replace it with your API key
+Obtain your API key from here https://newsapi.org/
+```
+   private let HEALTH_URL = "https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=API _KEY_HERE"
+   private let HEADLINES_URL = "https://newsapi.org/v2/top-headlines?country=in&apiKey=API _KEY_HERE"
+   private let TECH_URL = "http://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=API _KEY_HERE"
+   private let ENTERTAINMENT_URL = "http://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=API _KEY_HERE"
+    private let SCIENCE_URL = "http://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=API _KEY_HERE"
+```
+
+
+
+
 # Cocoa Pods used
 
 KSBGradient By: me!(Sai Balaji) link: https://cocoapods.org/pods/KSBGradientView To get gradient background to UIVIew <br>
 SVProgressHUD By: Sam Vermette and Tobias Tiemerding link: https://cocoapods.org/pods/SVProgressHUD To display progress view <br>
 SDWebImage By: Olivier Poitrey link: https://cocoapods.org/pods/SDWebImage  Asynchronous image downloader without affecting UI Thread <br>
 
-#   Replace it with your API key
 
-```
-   private let HEALTH_URL = "https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=API _KEY_HERE"
-   private let HEADLINES_URL = "https://newsapi.org/v2/top-headlines?country=in&apiKey=API _KEY_HERE"
-   private let TECH_URL = "http://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=API _KEY_HERE"
-   private let ENTERTAINMENT_URL = "http://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=API _KEY_HERE"
-    private let SCIENCE_URL = "http://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=API _KEY_HERE"```
 
 # Screenshots
 
