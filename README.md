@@ -12,8 +12,8 @@ Built using MVC architecture
 
 # Frameworks used
 
-* UIKit <br> - UserInterface framework
-* Core Data <br> - To store Bookmarks in disk
+* UIKit  - UserInterface framework
+* Core Data  - To store Bookmarks in disk
 * Swift Standard Library (Codable) - To parse JSON objects
 
 #   Replace it with your API key
