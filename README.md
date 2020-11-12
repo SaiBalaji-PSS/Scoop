@@ -2,19 +2,19 @@
 
 A NEWS App for iOS 14 built using Swift which allow the users to read,bookmark and share news articles.
 Built using MVC architecture
-[![HitCount](http://hits.dwyl.com/SaiBalaji22/https://githubcom/SaiBalaji22/Scoop.svg)](http://hits.dwyl.com/SaiBalaji22/https://githubcom/SaiBalaji22/Scoop)
+
 # Requirements
 
-.Xcode 10+ <br>
-.Swift 5+. <br>
-.Cocoa Pod <br>
+* Xcode 10+ <br>
+* Swift 5+. <br>
+* Cocoa Pod <br>
 
 
 # Frameworks used
 
-. UIKit <br> - UserInterface framework
-. Core Data <br> - To store Bookmarks in disk
-. Swift Standard Library (Codable) - To parse JSON objects
+* UIKit <br> - UserInterface framework
+* Core Data <br> - To store Bookmarks in disk
+* Swift Standard Library (Codable) - To parse JSON objects
 
 #   Replace it with your API key
 Obtain your API key from here https://newsapi.org/
@@ -31,9 +31,11 @@ Obtain your API key from here https://newsapi.org/
 
 # Cocoa Pods used
 
-KSBGradient By: me!(Sai Balaji) link: https://cocoapods.org/pods/KSBGradientView To get gradient background to UIVIew <br>
-SVProgressHUD By: Sam Vermette and Tobias Tiemerding link: https://cocoapods.org/pods/SVProgressHUD To display progress view <br>
-SDWebImage By: Olivier Poitrey link: https://cocoapods.org/pods/SDWebImage  Asynchronous image downloader without affecting UI Thread <br>
+* KSBGradient By: me!(Sai Balaji) link: https://cocoapods.org/pods/KSBGradientView To get gradient background to UIVIew <br>
+
+* SVProgressHUD By: Sam Vermette and Tobias Tiemerding link: https://cocoapods.org/pods/SVProgressHUD To display progress view <br>
+
+* SDWebImage By: Olivier Poitrey link: https://cocoapods.org/pods/SDWebImage  Asynchronous image downloader without affecting UI Thread <br>
 
 
 
