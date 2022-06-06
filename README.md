@@ -17,7 +17,7 @@ Built using MVC architecture
 * Install the cocoapod dependencies by running the below command in terminal inside the project directory.
 ```pod install```
 
-* Open TaskOne.xcworkspace in latest version of Xcode on a mac with internet connection by running the below command in terminal.
+* Open Scoop.xcworkspace in latest version of Xcode on a mac with internet connection by running the below command in terminal.
 ``` open Scoop.xcworkspace```
 
 * Wait for the dependencies to complete indexing.
